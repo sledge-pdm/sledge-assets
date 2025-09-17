@@ -5,7 +5,8 @@ mainly used as "public" folder.
 
 ## Fonts
 
-* You may should find and install these fonts by yourself.
+* This repo is on MIT License, but the files under `fonts` directory may have the license for each.
+* These files might be removed silently when the problem occured. You may should find and install these fonts by yourself.
 
 - [04b_XX](http://www.04.jp.org) by yuji oshimoto (04.jp.org)
 - [k12x8 / k8x12](https://littlelimit.net/k12x8.htm) by num_kadoma (littlelimit.net)
