@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="2" height="2" viewBox="0 0 2 2" shape-rendering="crispEdges"
   xmlns="http://www.w3.org/2000/svg">
-  <path d="M 0 0 L 1 0 L 1 2 L 2 2 L 2 1 L 0 1 L 0 0 Z" fill="#00000020"
+  <path d="M 0 0 L 1 0 L 1 2 L 2 2 L 2 1 L 0 1 L 0 0 Z" fill="#00000010"
     shape-rendering="crispEdges" />
 </svg>
